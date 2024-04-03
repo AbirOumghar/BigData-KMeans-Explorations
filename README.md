@@ -1,7 +1,7 @@
 <h1 align="center">BigData-KMeans-Explorations 📊</h1>
 
 <p><strong>Project Overview 🌟</strong></p>
-<p>This repository reflects a pivotal element of my academic exploration in machine learning within the M2 MLDS/AMSD curriculum. It provides a deep dive into the k-means clustering algorithm through sequential, streaming, and distributed processing paradigms. These implementations embody the challenges and solutions encountered in large-scale data analysis, a testament to the hands-on, problem-solving approach fostered through my studies.</p>
+<p>This repository reflects a pivotal element of my academic exploration in Machine Learning for Data Science M2 MLDS/AMSD master. It provides a deep dive into the k-means clustering algorithm through sequential, streaming, and distributed processing paradigms. These implementations embody the challenges and solutions encountered in large-scale data analysis, a testament to the hands-on, problem-solving approach fostered through my studies.</p>
 
 <p><strong>Implementation Highlights</strong></p>
 <ul>
